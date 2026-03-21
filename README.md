@@ -275,7 +275,7 @@ mvn clean package
 
 ## 📮 联系方式
 
-- 作者：Privilege Escalation Scanner Team
+- 作者：Zephyr1ng
 - 问题反馈：[GitHub Issues](https://github.com/yourusername/privilege-escalation-scanner/issues)
 
 ---
