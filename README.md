@@ -3,7 +3,7 @@
 <div align="center">
 
 
-![Burp Suite](https://img.shields.io/badge/Burp%20Suite-2024 compatible-blue)
+![Burp Suite](https://img.shields.io/badge/Burp%20Suite-2024compatible-blue)
 ![Java](https://img.shields.io/badge/Java-17-orange)
 ![Montoya API](https://img.shields.io/badge/Montoya%20API-Latest-green)
 ![License](https://img.shields.io/badge/License-MIT-yellow)
